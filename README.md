@@ -11,10 +11,10 @@
 >Lunna    
 >David    
 
-Equipe de marcação HTML: Thiago, Kauã, Kássio
+\_Equipe de marcação HTML:\_ Thiago, Kauã, Kássio
 
-Equipe de Css: Thiago, Callebe, Pedro Ryan
+\_Equipe de Css:\_ Thiago, Callebe, Pedro Ryan
 
-Equipe JavaScript: Thiago
+\_Equipe JavaScript:\_ Thiago
 
-Equipe de Designer: Ester, Camila, Livia, Lunna, David
+\_Equipe de Designer:\_ Ester, Camila, Livia, Lunna, David
