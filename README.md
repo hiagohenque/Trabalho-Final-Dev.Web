@@ -1,4 +1,4 @@
-# Equipe D4vidTech:
+## Equipe Thiago:
 
 >Thiago
 >
