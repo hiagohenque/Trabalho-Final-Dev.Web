@@ -1,24 +1,15 @@
 ## Equipe Thiago:
 
 >Thiago    
->&nspb;
->Callebe
->
->Kauã
->
->Kássio
->
->Ryan
->
->Ester
->
->Camila
->
->Livia
->
->Lunna
->
->David
+>Callebe    
+>Kauã    
+>Kássio    
+>Ryan    
+>Ester    
+>Camila    
+>Livia    
+>Lunna    
+>David    
 
 Equipe de marcação HTML: Thiago, Kauã, Kássio
 
