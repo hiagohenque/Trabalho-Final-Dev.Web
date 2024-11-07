@@ -1,6 +1,7 @@
 ## Equipe Thiago:
 
->Thiago &nspb;
+>Thiago
+>&nspb;
 >Callebe
 >
 >Kauã
