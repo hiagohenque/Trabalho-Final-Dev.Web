@@ -1,23 +1,14 @@
 Equipe D4vidTech:
 
 *Thiago
-
 *Callebe
-
 *Kauã
-
 *Kássio
-
 *Ryan
-
 *Ester
-
 *Camila
-
 *Livia
-
 *Lunna
-
 *David
 
 
