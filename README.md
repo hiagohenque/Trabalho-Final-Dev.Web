@@ -11,7 +11,6 @@ Equipe D4vidTech:
 *Lunna
 *David
 
-
 Equipe de marcação HTML: Thiago, Kauã, Kássio
 
 Equipe de Css: Thiago, Callebe, Pedro Ryan
